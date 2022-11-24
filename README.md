@@ -22,20 +22,6 @@
 * 4
 
 
-[Y](https://youtube.com/c/boozesounds) <br>
-
-# Hi there 👋
-## Hi there 👋
-### Hi there 👋
-#### Hi there 👋
-##### Hi there 👋
----
+[Y](https://masseurban.com) <br>
 
 
-```
-코드
-```
-
-:joy:
-:smile:
-:smirk:
